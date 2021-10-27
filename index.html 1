@@ -1,3 +1,49 @@
+<!DOCTYPE html>
 <html>
-  
+<head>
+<title>Page Title</title>
+</head>
+<style>
+p1 {
+    font-size: 1.275em;
+}
+p1 {
+    font-family: "", Times, serif;
+}
+p2 {
+    font-size: 0.875em;
+}
+</style>
+<body>
+
+<h1></h1></div>
+<p></p>
+
+
+目次<br>
+<a href="#1">・六種類のソーラーパネル</a><br>
+<a href="#2">・二種類の太陽光発電</a><br>
+<a href="#3">・太陽光発電による長所と短所</a><br>
+<a href="#4">・ソーラーパネルを作ってみよう！</a><br>
+</div>
+<br>
+<br>
+<h2 id="1">六種類のソーラーパネル</h2><b</b>
+<br><br><br>
+<p1>　化合物系太陽電池
+
+</p1>
+<p2>・・・<br>
+　多元素化合物半導体を用いた太陽電池
+「CIS太陽電池」や「CIGS太陽電池」など、複数の元素を組み合わせた多元素化合物半導体を用いたものが実用化されている。
+「CIS太陽電池」…銅(Cu)、インジウム(I)、セレン(Se)を主原料とした半導体
+
+</p2>
+
+
+
+
+
+
+</body>
 </html>
